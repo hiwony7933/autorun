@@ -1,12 +1,13 @@
 
 ## 목적
 
-* 자동화 댓글 작성 
+* auto comment use
 
-* cafe crawling 
+* cafe crawler
 
-* 발생된 log를 파일형식(log.csv)버전과 DB에 직접 저장 버전 
-
+* Version saved as log in file format
+ 
+* Version saved as Database
 
 ## Run
 
