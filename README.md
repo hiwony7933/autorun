@@ -11,8 +11,7 @@
 
 ## Run
 
-* NAS 의 Docker Ubuntu container 를 활용 
+* NAS Docker Ubuntu container  
 
-* crontab 스케쥴러를 이용하여 30분당 1회 동작하도록 셋팅 
-  * crontab 은 shell script로 작성하여 crontab에 등록함
+* ubuntu crontab - One operation per 30 minutes 
 
