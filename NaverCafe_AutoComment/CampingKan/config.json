@@ -1,0 +1,16 @@
+{ 
+    "USERINFO": { 
+        "USERNAME" : "userid", 
+        "PASSWORD" : "userpw",
+        "URL" : "target url"
+        }
+    ,
+    "DBINFO": { 
+        "USER" : "dbid", 
+        "PASSWORD" : "dbpw",
+        "host" : "dbhost",
+        "db" : "dbname",
+        "port" : "dbport",
+        "charset" : "utf8"
+        }
+}

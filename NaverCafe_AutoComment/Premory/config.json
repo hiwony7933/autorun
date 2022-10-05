@@ -1,0 +1,16 @@
+{ 
+    "USERINFO": { 
+        "USERNAME" : "tlgudlove", 
+        "PASSWORD" : "tlgud063",
+        "URL" : "https://m.cafe.naver.com/ca-fe/web/cafes/29207931/menus/12"
+        }
+    ,
+    "DBINFO": { 
+        "USER" : "norelove", 
+        "PASSWORD" : "92ghlrhkS!@#",
+        "host" : "hiwony.synology.me",
+        "db" : "jwleeDB",
+        "port" : 7577,
+        "charset" : "utf8"
+        }
+}
